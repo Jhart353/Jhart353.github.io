@@ -30,13 +30,13 @@ a {
 p {
 	font-size:3vh;
 	color:#FFFFFF;
-	padding:0% 25% 0% 25%; /* Top Right Bottom Left */
+	padding:0% 5vw 0% 5vw; /* Top Right Bottom Left */
 	text-align:justify;
 }	
 
 img {
-	width:20%;
-	height:35%;
+	width:25%;
+	height:40%;
 }
 
 div {
