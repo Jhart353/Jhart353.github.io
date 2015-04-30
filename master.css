@@ -7,7 +7,7 @@ body {
 h1 {
 	text-align:center;
 	color:#FFFFFF;
-	font-size:500%;
+	font-size:7vh;
 }
 
 table {
@@ -24,11 +24,11 @@ td {
 a {
 	color:#FFFFFF;
 	text-decoration:none;
-	font-size:110%;
+	font-size:3vh;
 }
 
 p {
-	font-size:125%;
+	font-size:3vh;
 	color:#FFFFFF;
 	padding:0% 25% 0% 25%; /* Top Right Bottom Left */
 	text-align:justify;
@@ -50,7 +50,7 @@ div {
 .nav-bar {
 	position:fixed;
 	bottom:0;
-	height:4%;
+	height:5vh;
 	width:100%;
 	left:0;
 	background-color:#FFFFFF;
@@ -60,7 +60,7 @@ div {
 .nav-table {
 	position:fixed;
 	color:#FFFFFF;
-	padding-bottom:.25%;
+	padding-bottom:.3vh;
 	bottom:0%;
 	font-weight:bold;
 	padding-left:.5%;
